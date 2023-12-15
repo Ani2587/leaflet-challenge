@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-In this challenge, I am focusing solely on part one since the second part was optional. Given the choice to select an API from the "USGS GeoJSON Feed," I opted for the URL that retrieves JSON data for all earthquakes that occurred in the past 7 days.
+In this challenge, I am focusing solely on part one since the second part was optional. Given the choice to select an API from the "USGS GeoJSON Feed," I opted for the URL that retrieves JSON data for All earthquakes that occurred in the past day.
 
 For this challenge, I am utilizing Leaflet to generate a map that displays the locations of all the earthquakes based on the retrieved data. Additionally, I am implementing markers, popups, and a legend to enhance the description and visualization of the earthquake data.
 
