@@ -1,9 +1,21 @@
 # leaflet-challenge
 
-In this challenge, I am focusing solely on part one since the second part was optional. Given the choice to select an API from the "USGS GeoJSON Feed," I opted for the URL that retrieves JSON data for All earthquakes that occurred in the past day.
+## Overview
+The United States Geological Survey[USGS], provides scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change.
+The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data, in order to better educate the public and other government organizations on issues facing our planet.
+
+## Purpose
 
 For this challenge, I am utilizing Leaflet to generate a map that displays the locations of all the earthquakes based on the retrieved data. Additionally, I am implementing markers, popups, and a legend to enhance the description and visualization of the earthquake data.
+Given the choice to select an API from the "USGS GeoJSON Feed," I opted for the URL that retrieves JSON data for All earthquakes that occurred in the past day.
 
+![image](https://github.com/Ani2587/leaflet-challenge/assets/17106097/672e286f-763c-4ca6-8c9c-783fd0e174c3)
+![Alt text]([relative/path/to/image.png](https://github.com/Ani2587/leaflet-challenge/assets/17106097/672e286f-763c-4ca6-8c9c-783fd0e174c3))
+
+
+
+
+## Instructions
 
 Follow the steps below to successfully run the code on your end:
 
